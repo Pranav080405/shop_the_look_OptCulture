@@ -3,8 +3,9 @@ requests
 pillow
 torch
 torchvision
-transformers
+transformers<4.34.0
 fashion-clip
 faiss-cpu
+opencv-python-headless
 ultralytics
 streamlit
