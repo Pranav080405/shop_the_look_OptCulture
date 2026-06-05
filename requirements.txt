@@ -4,6 +4,8 @@ pillow
 torch
 torchvision
 transformers<4.34.0
+datasets>=2.16.0
+pyarrow==14.0.1
 fashion-clip
 faiss-cpu
 opencv-python-headless
