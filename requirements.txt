@@ -1,0 +1,10 @@
+pandas
+requests
+pillow
+torch
+torchvision
+transformers
+fashion-clip
+faiss-cpu
+ultralytics
+streamlit
