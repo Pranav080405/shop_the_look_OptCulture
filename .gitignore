@@ -3,4 +3,3 @@ __pycache__/
 .DS_Store
 .streamlit/
 yolov8n.pt
-data/
