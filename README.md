@@ -2,6 +2,9 @@
 
 A complete **"Shop the Look"** system that identifies fashion products in a scene image and retrieves the closest matching items from a product catalog using **CLIP embeddings** and **FAISS** similarity search.
 
+deployment link:
+https://shopthelookoptculture-dkpx8drzhusvpiusbig854.streamlit.app/
+
 ---
 
 ## Architecture
