@@ -12,3 +12,4 @@ faiss-cpu
 opencv-python-headless
 ultralytics
 streamlit
+starlette<0.40.0
